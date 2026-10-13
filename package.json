@@ -1,0 +1,23 @@
+{
+  "name": "focusflow",
+  "version": "1.0.0",
+  "description": "FocusFlow — Smart Study Planner & Productivity Engine",
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "seed": "cd server && node config/seedDemo.js",
+    "build": "cd client && npm run build",
+    "start": "cd server && npm start"
+  },
+  "keywords": [
+    "study-planner",
+    "react",
+    "express",
+    "mysql",
+    "student-productivity",
+    "greedy-algorithm",
+    "pomodoro"
+  ],
+  "author": "",
+  "license": "MIT"
+}
